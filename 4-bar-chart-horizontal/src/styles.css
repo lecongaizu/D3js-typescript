@@ -1,0 +1,17 @@
+body {
+  margin: 0px;
+  font-family: sans-serif;
+}
+
+text {
+  font-size: 24px;
+}
+
+.tick text {
+  font-size: 20px;
+  fill: #0c0c0c;
+}
+
+.tick line {
+  stroke: #797171;
+}
